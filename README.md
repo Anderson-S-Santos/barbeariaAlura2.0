@@ -18,4 +18,4 @@ Uma página de barbearia para mostrar os produtos oferecidos, preços e contato.
 
   ### Status
   
-  Projeto finalizado! ✔
+  🚧 Projeto em construção! 🚧
