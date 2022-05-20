@@ -24,7 +24,7 @@ nav a {
     text-transform: uppercase;
     color: #000000;
     font-weight: bold;
-    font-size: 22px;
+    font-size: 25px;
     text-decoration: none;
 }
 
@@ -155,6 +155,12 @@ td, th{
 .banner {
     width: 100%;
     margin: 0 0 3em;
+    opacity: 0.8;
+    transition: 400ms;
+}
+
+.banner:hover {
+    opacity: 1;
 }
 
 .titulo-principal {
@@ -247,6 +253,13 @@ Um linha do lado da outra ao invés de abaixo.
 
 .imagem-beneficios {
     width: 60%;
+    opacity: 0.7;
+    transition: 400ms;
+    box-shadow: 10px 10px 10px 0 #000000;
+}
+
+.imagem-beneficios:hover {
+    opacity: 1;
 }
 
 .video {
