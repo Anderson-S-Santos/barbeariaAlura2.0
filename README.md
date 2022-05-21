@@ -3,11 +3,12 @@
 
 ### Descrição
 
-Desenvolvido durante o curso de HTML2 da Alura Cursos.
-Visa colocar em prática alguns conceitos de HTML como: header, footer, main, div, nav. <br>
-E também de CSS como: position, inline, inline-block.
+Desenvolvido durante o curso: Formação FRONTD-END da Alura Cursos.
+Visa colocar em prática alguns conceitos de HTML como: header, footer, main, div, nav, section, footer. <br>
+E também de CSS como: position, inline, inline-block, display, pseudo-classe, pseudo-elementos, formulários
+tabelas, um pouco de responsividade. 
 
-Uma página de barbearia para mostrar os produtos oferecidos, preços e contato. E também a descrição da mesma.
+Uma página de barbearia para falar sobre, mostrar os produtos oferecidos, preços, localização e contato.
 
 
 
@@ -18,4 +19,4 @@ Uma página de barbearia para mostrar os produtos oferecidos, preços e contato.
 
   ### Status
   
-  🚧 Projeto em construção! 🚧
+   Projeto Finalizado! &#9989;
