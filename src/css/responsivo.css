@@ -1,14 +1,23 @@
 @media screen and (max-width:480px) {
+    
     .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video {
         width: auto;
     }
-
+    main {
+        padding: 5px;
+    }
+    
     h1 {
         text-align: center;
     }
 
     nav {
         position: static;
+        
+    }
+
+    nav a {
+        font-size: 20px;
     }
 
     .list-beneficios, .imagem-beneficios {
